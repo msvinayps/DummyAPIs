@@ -1,0 +1,22 @@
+{
+  "name": "dummy_api",
+  "version": "1.0.0",
+  "description": "Practice APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "temp"
+  },
+  "keywords": [
+    "Dummy",
+    "API"
+  ],
+  "author": "Vinay",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.2.0"
+  }
+}

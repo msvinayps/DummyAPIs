@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Peter Parker Probe",
+        "email": "peter.parker-probe@snwh.com",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "name": "Pramila Jain",
+        "email": "jain_pramila@kertzmann.io",
+        "gender": "female",
+        "status": "active"
+    }
+]
