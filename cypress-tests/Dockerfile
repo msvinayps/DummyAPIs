@@ -1,5 +1,5 @@
-FROM cypress/included:9.5.4 as test-env
-RUN apt-get update && apt-get install curl -y
+FROM amazon/aws-sam-cli-build-image-nodejs14.x as test-env
+RUN npm config set unsafe-perm true
 
 WORKDIR /app/
 COPY . /app/
